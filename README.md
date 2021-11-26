@@ -37,6 +37,18 @@ CastleSky makes learning a joy for students of all ages. The current focus will 
 2. Run the file
 3. Enjoy!
 
+## Images of our game
+
+![image](https://user-images.githubusercontent.com/57227843/143588891-b3d5b46f-a96b-4bd2-9b6c-ff288650634f.png)
+
+![image](https://user-images.githubusercontent.com/57227843/143588903-53eb27ee-08dc-421a-aa16-c1d2423b2ecf.png)
+
+![image](https://user-images.githubusercontent.com/57227843/143588909-752b588a-e0f7-45e5-8fe6-4988f90de105.png)
+
+![image](https://user-images.githubusercontent.com/57227843/143588915-c377defc-93a8-4474-8ba0-7ea4e158b666.png)
+
+
+
 ### Instructions for Running CastleSky on MacOS (Still in Beta Stage)
 1. Choose one of the options below
  
